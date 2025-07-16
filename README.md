@@ -1,3 +1,3 @@
-# xshop-django-development
+# xshop-django
 
-Initial repository setup for pr-poehali-dev/xshop-django-development
+Initial repository setup xshop-django-development
