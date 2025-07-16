@@ -1,3 +1,2 @@
 # xshop-django
-
-Initial repository setup xshop-django-development
+В данном репозитории выложены файлы которые используются сервисом django для отображения frontend части интернет магазина
